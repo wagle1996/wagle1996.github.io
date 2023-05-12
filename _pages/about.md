@@ -1,12 +1,12 @@
 ---
 layout: about
-title: about
-permalink: /
+title: About
+permalink: about/
 subtitle: <a href='#'>Graduate Student, Brown University</a>. Providence,RI. Email: wagle1996[at]gmail.com
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: assets/img/prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Providence</p>
