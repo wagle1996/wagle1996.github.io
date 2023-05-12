@@ -2,7 +2,7 @@
 layout: page
 title: People Counter application 
 description: This project was done as a requirement for completing udacity nano degree course
-img: pca.png
+img: assets/img/pca.png
 redirect: https://github.com/wagle1996/people-counter-app
 importance: 3
 category: work
