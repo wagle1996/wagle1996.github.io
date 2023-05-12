@@ -2,96 +2,85 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Nimisha Wagke
     - name: Date of Birth
-      value: 14th March 1879
+      value: 22 October 1996
     - name: Languages
-      value: English, German
+      value: English, Nepali
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: MSC
+      institution: Brown University, Providence, RI, US
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Computer vision, Deep learning, Machine learning for Earth and Environment, Modelling
+        - Thesis; Understanding Canadian Shield surface hydrology
+    - title: BE in Geomatics Engineering 
+      institution: Kathmandu University, Dhulikhel, Nepal
+      year: 2017
       description:
-        - Description 1.
-        - Description 2.
+        - GIS, Remote Sensing, WebGIS, Geodesy, Statistics, Photogrammetry, Land Management
+        - Thesis; Monitoring water quality parameter of lakes of Nepal
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Research Assistant 
+      institution: Brown University
+      year: 2021-2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Processed big geospatial data using high-performance computing (OSCAR)
+        - Used satellite imagery to understand the hydrological change in Northern Latitudes
+        - Used remote sensing data to study the connectivity of surface water in the Canadian Shield Region
+  
+    - title: Survey Officer
+      institution: Government of Nepal
+      year: 2018-2021
       description:
-        - Description 1.
-        - Description 2.
+        - Worked as Technical Lead on the "Topographic Base Map Database Update" project
+        - Processed and analyzed ZY-3 imagery for mapping
+        - Conducted field verification and cartographic quality
+        - Trained survey professionals for complete map making
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Geographic Information Systems Analyst
+      institution: Multi Disciplinary Consultants (P) Ltd.
+      year: 2018
       description:
+        -Compiled bore hole logs in Google maps and GIS platform with limited data tag in Kathmandu valley and other districts
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Geographic Information Systems Analyst
+      institution: Pioneer Engineering and Architects
+      year: 2018
+      description:
+        -Worked on the "Development of GIS-Based Map of Roshi Area" project under "Roshi Area Social Development Project"
+        -Conducted GPS survey and database precreation for the project area
+        -Conducted GPS training and technology transfer to project staff
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Research Intern
+      institution: International Maize and Wheat Improvement Center (CIMMYT)
+      year: 2017
+      description:
+        -Worked on crop type mapping project
+        -Mapped forest fire burnt area
+        -Did usability testing of applications which were built to improve seed system of Nepal
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: Skill
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Technical Skills
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Python (PyTorch, Scikit-learn, Keras, Tensor Flow), R (raster, sf, caret, ggplot), C, C++
+          ArcGIS (Desktop, Pro), QGIS, ENVI, ERDAS IMAGINE, Google Earth Engine, AutoCAD, Pix4DMapper, Anaconda, OpenVINO, MS Office, Google Workspace SQL, MATLAB, Octave, MS Office, MS Project, Google Suite, Adobe Photoshop, PowerBI
+          Windows, Linux
+    - title: Languages
       items:
-        - Description 1.
-        - Description 2.
+        - English
+        - Nepali
+        - Hindi
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Interests:</u> Hiking, Scifi and Horror movies, Food
