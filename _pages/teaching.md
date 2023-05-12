@@ -2,104 +2,104 @@
 layout: page
 permalink: /teaching/
 title: Skills
-description: Sets of skills
+description: 
 nav: true
 nav_order: 5
 ---
 
 
-Web MappingWeb Mapping
+Web Mapping
 
-Pattern RecognitionPattern Recognition
+Pattern Recognition
 
-Computer VisionComputer Vision
+Computer Vision
 
-Geospatial DataGeospatial Data
+Geospatial Data
 
-Spatial DatabasesSpatial Databases
+Spatial Databases
 
-Quantum GISQuantum GIS
+Quantum GIS
 
-CommunicationCommunication
+Communication
 
-Environmental ScienceEnvironmental Science
+Environmental Science
 
-Earth ScienceEarth Science
+Earth Science
 
-GeologyGeology
+Geology
 
-GeographyGeography
+Geography
 
-ArcGIS DesktopArcGIS Desktop
+ArcGIS Desktop
 
-ESRIESRI
+ESRI
 
-ArcMapArcMap
+ArcMap
 
-Analytical SkillsAnalytical Skills
+Analytical Skills
 
-Web DesignWeb Design
+Web Design
 
-ArcGIS ProArcGIS Pro
+ArcGIS Pro
 
-MATLABMATLAB
+MATLAB
 
-MySQLMySQL
+MySQL
 
-R (Programming Language)R (Programming Language)
+R (Programming Language)
 
-Remote SensingRemote Sensing
+Remote Sensing
 
-Geographic Information Systems (GIS)Geographic Information Systems (GIS)
+Geographic Information Systems (GIS)
 
-Microsoft OfficeMicrosoft Office
+Microsoft Office
 
-Machine LearningMachine Learning
+Machine Learning
 
-Deep LearningDeep Learning
+Deep Learning
 
-CartographyCartography
+Cartography
 
-SurveyingSurveying
+Surveying
 
-GeomaticsGeomatics
+Geomatics
 
-Spatial AnalysisSpatial Analysis
+Spatial Analysis
 
-Image ProcessingImage Processing
+Image Processing
 
-ArcGIS ProductsArcGIS Products
+ArcGIS Products
 
-GIS GIS 
+GIS 
 
-PythonPython
+Python
 
-Google Earth EngineGoogle Earth Engine
+Google Earth Engine
 
-Microsoft PowerPointMicrosoft PowerPoint
+Microsoft PowerPoint
 
-AutoCADAutoCAD
+AutoCAD
 
-JavaScriptJavaScript
+JavaScript
 
-TeamworkTeamwork
+Teamwork
 
-UAVUAV
+UAV
 
-ENVIENVI
+ENVI
 
-ERDAS ImagineERDAS Imagine
+ERDAS Imagine
 
-Adaptive LearningAdaptive Learning
+Adaptive Learning
 
-CollaborationCollaboration
+Collaboration
 
-AdaptabilityAdaptability
+Adaptability
 
-Land SurveyingLand Surveying
+Land Surveying
 
-Microsoft WordMicrosoft Word
+Microsoft Word
 
-Python (Programming Language)Python (Programming Language)
+Python (Programming Language)
 
 Project Management
