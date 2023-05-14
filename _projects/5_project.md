@@ -1,14 +1,13 @@
 ---
 layout: page
-title: 
-Development of GIS-Based Map of Roshi Area Social Development Project area with GPS survey of Project location Structures
+title: Development of GIS-Based Map of Roshi Area Social Development Project area with GPS survey of Project location Structures
 description: This project was done in accociation with Pioneer Engineering and Architects 
 img: assets/img/pio1.jpg
 importance: 1
 category: work
 ---
 
-This project is the complementary project under Roshi area social Development project. Please see this video:  https://www.youtube.com/watch?v=wbhjArQfh38&ab_channel=%E3%82%A2%E3%83%A0%E3%83%80%E3%83%9E%E3%82%A4%E3%83%B3%E3%82%BA%2FAMDA-MINDS
+This project is the complementary project under Roshi area social Development project. :<a href="https://www.youtube.com/watch?v=wbhjArQfh38&ab_channel=%E3%82%A2%E3%83%A0%E3%83%80%E3%83%9E%E3%82%A4%E3%83%B3%E3%82%BA%2FAMDA-MINDS">Please see this video</a>  
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

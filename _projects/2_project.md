@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Landcover change analysis of Kaski District
-description: I did landcover changes mapping and analysis of Kaski district using Landsat Imagery and GEE.
+description: This project was done in collaboration with Dr. Tri Dev Acharya.
 img: assets/img/multi1.png
 importance: 2
 category: work
