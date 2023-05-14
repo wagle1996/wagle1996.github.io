@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-description: People counter application 
+description: This project was done as a requirement for completing udacity nano degree course
 img: assets/img/pca.png
 redirect: https://github.com/wagle1996/people-counter-app
 importance: 3
