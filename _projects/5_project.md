@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Development of GIS-Based Map of Roshi Area
 description: This project was done in accociation with Pioneer Engineering and Architects 
 img: assets/img/pio1.jpg
 importance: 4

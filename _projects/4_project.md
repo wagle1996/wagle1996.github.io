@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Computer pointer controller
 description: This project was done as a requirement for completing udacity nano degree course
 img: assets/img/cpc.png
 redirect: https://github.com/wagle1996/Computer_Pointer_Controller

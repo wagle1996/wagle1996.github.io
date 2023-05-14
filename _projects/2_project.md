@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Landcover change analysis 
 description: This project was done in collaboration with Dr. Tri Dev Acharya.
 img: assets/img/multi1.png
 importance: 2

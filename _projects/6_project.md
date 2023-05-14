@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Smart queuing system
 description: This project was done as a requirement for completing udacity nano degree course
 img: 
 redirect: https://github.com/wagle1996/Smart-Queuing-System
