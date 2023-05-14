@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Topographic base map database update of Nepal
-description: This project was Nepal government's Project. I worked as technical lead in a group who did all the complete database updating, map making along with field verification. 
+title: 
+description: Topographic base map database update of Nepal
 img: assets/img/topomap1.png
 importance: 1
 category: work

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Landcover change analysis of Kaski District
-description: This project was done in collaboration with Dr. Tri Dev Acharya.
+title: 
+description: Landcover change analysis of Kaski District
 img: assets/img/multi1.png
 importance: 2
 category: work
