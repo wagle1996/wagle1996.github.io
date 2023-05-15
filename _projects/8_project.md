@@ -26,6 +26,7 @@ Counterintuitively, data augmentation did not produce better
 results and instead reduced the accuracy. However, these
 results are still very promising and open the door to quick
 and easy water mapping in the future.
+<a href="https://github.com/wagle1996/Mapping_waterbody">Go to this github link to see source code</a>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

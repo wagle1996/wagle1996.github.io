@@ -19,6 +19,8 @@ models in terms of precision and recall. The reason for bad results may be the u
 because the model got confused with objects and background. More training data, pansharpened images,
 and the use of precise parameter tuning might increase the result
 
+<a href="https://github.com/wagle1996/Bedrock_detection">Go to this github link to see source code</a>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/choke_pt1.png" title="example image" class="img-fluid rounded z-depth-1" %}
