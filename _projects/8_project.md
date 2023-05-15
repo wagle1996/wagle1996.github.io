@@ -39,7 +39,7 @@ and easy water mapping in the future.
     </div>
 </div>
 <div class="caption">
-    Detection of choke points and image labelling
+    Deploy of model in training and test data, accuracy and epoch loss of model and model architecture
 </div>
 
 
