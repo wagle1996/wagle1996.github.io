@@ -6,7 +6,7 @@ subtitle: <a href='#'>Graduate Student, Brown University</a>. Providence, RI.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: My_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Providence RI</p>
