@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Chokepoint detection using high resolution imagery
-description: This project was Nepal government's Project. I worked as technical lead in a group who did all the complete database updating, map making along with field verification. 
-img: assets/img/topomap1.png
+description: This project was class project done by me on my machine learning class in Brown University.
+img: assets/img/choke_pt1.png
 importance: 7
 category: work
 ---
