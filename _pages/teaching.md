@@ -7,7 +7,6 @@ nav: true
 nav_order: 5
 ---
 
-
 Web Mapping
 
 Pattern Recognition

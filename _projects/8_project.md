@@ -4,7 +4,7 @@ title: Waterbody mapping using image segmentation
 description: This project was class project done by me on my computer vision class in Brown University.
 img: assets/img/deeplearning.png
 importance: 8
-category: work
+category: Professional
 ---
 
 Water is an essential part of a living ecosystem, as it is

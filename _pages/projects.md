@@ -2,10 +2,10 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Projects done by me.
+description: Projects done by Nimisha.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [Professional, Training]
 horizontal: false
 ---
 

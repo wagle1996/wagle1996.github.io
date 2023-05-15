@@ -4,7 +4,7 @@ title: Chokepoint detection using high resolution imagery
 description: This project was class project done by me on my machine learning class in Brown University.
 img: assets/img/choke_pt1.png
 importance: 7
-category: work
+category: Professional
 ---
 
 The major critical control of the flow of water is the chokepoints which are the bedrocks in the river. These
