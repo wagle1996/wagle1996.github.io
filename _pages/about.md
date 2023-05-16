@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Graduate Student, Brown University</a>. Providence, RI.
+subtitle: <a href='https://ibes.brown.edu/people/nimisha-wagle'>Graduate Student, Brown University</a>. Providence, RI.
 
 profile:
   align: right
@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a graduate student in the Department of Earth, Environmental, and Planetary Sciences (DEEPS) at Brown. My research focuses on understanding changes in surface water storage and connectivity across the Canadian Shield using high-resolution satellite imagery. Before Brown, I received my B.E. degree in Geomatics from Kathmandu University, Nepal, in 2017 and worked as a Survey Officer at the Survey Department, Government of Nepal on mapping land covers and updating topographical base maps.
 
-I am interested in GeoAI, Machine learning, deep learning and analyzing spatial databases. Please feel free to contact me for any collaborations. 
+I am interested in GeoAI, machine learning, deep learning and analyzing spatial databases. Please feel free to contact me for any collaborations. 
 
 
 
