@@ -70,7 +70,9 @@ Conclusion
 Rhode Island may be the nation's smallest state, but it's brimming with cultural treasures, natural beauty, and historic charm. These nine must-visit places in Rhode Island offer a glimpse into the state's rich history, vibrant culture, and stunning landscapes. Whether you're a history buff, nature lover, or art enthusiast, Rhode Island has something special to offer you. So, pack your bags and embark on a journey to uncover the hidden treasures of the Ocean State.
 These are the most important places to visit in Rhode Island and are my top choices. 
 See the Map below for the places you need to visit in Rhode Island. click the placemark to see details of the places. 
-<iframe style="overflow:auto; position: absolute; display:block;  min-height: 100vh;  background-color: #f2f0ea; border: none;" width="100%", height="100%" scrolling="no" src="https://wagle1996.github.io/Places_to_visit_webmap/#10/41.6421/-71.3562" title="Places to visit in Rhode Island"></iframe>
+<iframe style="overflow:hidden; position: float; display:block;  min-height: 100vh;  background-color: #f2f0ea; border: none;" 
+                src="https://wagle1996.github.io/Places_to_visit_webmap/#10/41.6421/-71.3562" 
+                height=100% width=100%></iframe>
 
 
 
