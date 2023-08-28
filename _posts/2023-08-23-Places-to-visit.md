@@ -72,7 +72,7 @@ These are the most important places to visit in Rhode Island and are my top choi
 
 See the Map below for the places you need to visit in Rhode Island. click the placemark to see details of the places.
 
-<iframe src="https://wagle1996.github.io/Places_to_visit_webmap/#10/41.6421/-71.3562" style="overflow:auto; position: absolute; display:block;  min-height: 100vh;  background-color: #f2f0ea; border: none;" height="100%" width="100%" scrolling= "no" title="Places to visit"></iframe>
+<iframe src="https://wagle1996.github.io/Places_to_visit_webmap/#10/41.6421/-71.3562" style="overflow:auto; position: absolute; display:block; background-color: #f2f0ea; border: none;" height="100%" width="100%" scrolling= "no" title="Places to visit"></iframe>
 
 
 
