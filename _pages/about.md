@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am Research associate at Brown University. I did my Master's in Earth Science from Brown University. My research focuses on understanding changes in surface water storage and connectivity across the Canadian Shield using high-resolution satellite imagery. Before Brown, I received my B.E. degree in Geomatics from Kathmandu University, Nepal, in 2017 and worked as a Survey Officer at the Survey Department, Government of Nepal on mapping land covers and updating topographical base maps.
+I am Research Associate at Brown University. I did my Master's in Earth Science from Brown University. My research focuses on understanding changes in surface water storage and connectivity across the Canadian Shield using high-resolution satellite imagery. Before Brown, I received my B.E. degree in Geomatics from Kathmandu University, Nepal, in 2017 and worked as a Survey Officer at the Survey Department, Government of Nepal on mapping land covers and updating topographical base maps.
 
 I am interested in GeoAI, machine learning, deep learning and analyzing spatial databases. Please feel free to contact me for any collaborations. 
 
