@@ -2,7 +2,7 @@
 layout: post
 title:  Rhode Island Hospitals
 date:   2023-09-24 16:40:16
-description: Informations of Hospitals of rhode island Dashboard
+description: Information of Hospitals in Rhode Island (Dashboard)
 tags: Dashboards
 categories: sample-posts
 ---
