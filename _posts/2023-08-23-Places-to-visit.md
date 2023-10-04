@@ -8,7 +8,7 @@ categories: Information
 
 giscus_comments: false
 related_posts: false
-toc:S
+toc:
   sidebar: left
 ---
 Best Places to visit in rhode island
