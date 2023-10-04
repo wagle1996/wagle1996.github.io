@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rhode Island's Hidden Treasures
-date: 2023-08-7 7:33:00-0400
+date: 2023-08-7 7:33:00
 description: The best places where I have visited in Rhode Island
 tags: Places_to_visit
 categories: Information
